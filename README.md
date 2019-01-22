@@ -1,4 +1,4 @@
 # SE-sample
 
-#this is a
-sample program gyvgbgvg yubhububn
+#Sample-1
+this is a sample program
